@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "SearchLine.js",
+  "dependencies": {
+    "perfy": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmberCode/js-find-t-line.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmberCode/js-find-t-line/issues"
+  },
+  "homepage": "https://github.com/AmberCode/js-find-t-line#readme",
+  "description": ""
+}
